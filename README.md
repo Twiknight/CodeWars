@@ -1,2 +1,4 @@
 # CodeWars
-Some Kata from codewars.com with answers
+Some Katas from codewars.com with answers.
+
+Try some katas: http://www.codewars.com/
